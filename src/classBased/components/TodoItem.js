@@ -43,7 +43,7 @@ class TodoItem extends React.Component {
         <input
           type="text"
           style={editMode}
-          className={styles.text-input}
+          className={styles.textInput}
           value={title}
           onChange={e => {
             this.props.setUpdate(e.target.value, id)

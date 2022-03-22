@@ -53,7 +53,7 @@ const TodoItem = props => {
       <input
         type="text"
         style={editMode}
-        className={styles.text-input}
+        className={styles.textInput}
         value={title}
         onChange={e => {
           props.setUpdate(e.target.value, id)

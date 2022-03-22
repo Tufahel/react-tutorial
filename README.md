@@ -1,14 +1,16 @@
 # Title-Info
-> This is a ...
+> This is basically a React Tutorial about how to make a todo web app with using class and function.
 
 # GIF/Screenshot
-![]
+![](pic1.png)
 
 ## Built With
 - React
+- CSS
+- SASS
 
 ## Live Demo
-For the link to the live demo, [Click here]()
+For the link to the live demo, [Click here](https://steady-profiterole-8ed04e.netlify.app/)
 
 ## Getting Started
 To get a local copy up and running you just need to follow the following steps;
@@ -39,9 +41,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to [ibaslogic](https://ibaslogic.com/react-hooks-tutorial/) for this tutorial.
 
 ## 📝 License
 
