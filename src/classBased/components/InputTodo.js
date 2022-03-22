@@ -1,7 +1,7 @@
 /* eslint-disable */
 import React, { Component } from "react"
 
-class InputTodo extends Component {
+class InputTodo extends React.Component {
   state = {
     fName: "",
     lastName: "",
